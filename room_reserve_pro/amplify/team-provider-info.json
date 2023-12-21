@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-roomreservepro-dev-123233-authRole",
+      "UnauthRoleArn": "arn:aws:iam::146644876876:role/amplify-roomreservepro-dev-123233-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::146644876876:role/amplify-roomreservepro-dev-123233-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-roomreservepro-dev-123233-deployment",
+      "UnauthRoleName": "amplify-roomreservepro-dev-123233-unauthRole",
+      "StackName": "amplify-roomreservepro-dev-123233",
+      "StackId": "arn:aws:cloudformation:us-east-1:146644876876:stack/amplify-roomreservepro-dev-123233/936203d0-888b-11ee-a35e-123d4bb4d68b",
+      "AmplifyAppId": "dgv3wky8qogpt"
+    },
+    "categories": {
+      "auth": {
+        "roomreservepro2e0072ca": {}
+      }
+    }
+  }
+}
