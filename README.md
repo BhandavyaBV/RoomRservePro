@@ -1,1 +1,1 @@
-# RoomRservePro
+Web based application targeted to improvise existing library room booking system. Serverless application running on various tech stacks like Javascript and python for backend and React for front end. Applictaion provides options to perform CRUD operations on the library room, spot booking, notify users and admin dasboard. Application uses AWS services like Lambda function, SNS, S3, API Gateway and DynamoDB. 
